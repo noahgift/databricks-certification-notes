@@ -7,9 +7,9 @@ A repository for notes on Databricks certifications for Data Engineering
 
 * [Databricks University Alliance](https://databricks.com/p/teach)
 
-2. Pick a cloud platform:  AWS/GCP/Azure.
+2. DO NOT Pick a cloud platform:  AWS/GCP/Azure.
 Here is a picture of the stack setup in Cloud Formation for AWS.
-![create-quick-stack](https://user-images.githubusercontent.com/58792/142621569-4b31787e-93da-42a1-bf7e-cd4b364f0cc9.png)
+![create-quick-stack](https://user-images.githubusercontent.com/58792/142621569-4b31787e-93da-42a1-bf7e-cd4b364f0cc9.png).  Instead click on Community Edition.
 
 
 3. Open up the workspace: ![workspace-ready](https://user-images.githubusercontent.com/58792/142632514-62d1472a-d536-4aba-9877-6da210b07158.png)
